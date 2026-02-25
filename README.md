@@ -1,30 +1,45 @@
 <h1 align="center">Hi 👋, I'm Niveditha</h1>
 <h3 align="center">Java Full Stack Developer</h3>
 
-- 🌱 Currently learning **Spring Boot & SQL**
-- 💻 Built real-world web applications using **Java, JSP/Servlets, Spring Boot**
-- 🤖 Interested in **AI & Machine Learning**
-- 🎯 Goal: Get placed as a **Java Developer**
-
----
-
-## 🚀 Projects
-
-### 🍔 Food Delivery Web Application
-Java | JSP | Servlets | MySQL | MVC  
-A full-stack food ordering system with cart, orders, and user management.
-
-### 👩‍💼 Employee Management System
-Spring Boot | Thymeleaf | MySQL  
-Web app to manage employees with CRUD operations.
-
-
----
+<p align="center">
+💻 Passionate about building real-world web applications <br>
+🌱 Currently learning <b>Spring Boot & SQL</b> <br>
+🎯 Goal: Get placed as a <b>Java Developer</b>
+</p>
 
 ## 🛠 Tech Stack
-Java | Spring Boot | JDBC | Servlets | JSP | MySQL | HTML | CSS | Git | GitHub
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,vscode,eclipse" />
+
+</p>
+
+**Backend:** Java, Spring Boot, JDBC, Servlets, JSP  
+**Database:** MySQL  
+**Frontend:** HTML, CSS  
+**Tools:** Git, GitHub, Eclipse, VS Code, Apache Tomcat  
 
 ---
 
-## 📫 Connect with me
-LinkedIn: https://linkedin.com/in/niveditha-n-563076254
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nivedithan29&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithan29&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+🔗 LinkedIn:  
+https://linkedin.com/in/niveditha-n-563076254
+
+📍 Chitradurga, Karnataka, India
+
+---
+
+<p align="center">
+⭐ Keep Learning | Keep Building | Never Give Up ⭐
+</p>
