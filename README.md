@@ -3,43 +3,49 @@
 
 <p align="center">
 💻 Passionate about building real-world web applications <br>
-🌱 Currently learning <b>Spring Boot & SQL</b> <br>
-🎯 Goal: Get placed as a <b>Java Developer</b>
+🌱 Currently improving my skills in <b>Spring Boot & SQL</b> <br>
+🎯 Actively seeking opportunities as a <b>Java Developer</b>
 </p>
+
+---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,vscode,eclipse" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,eclipse,vscode" />
 </p>
 
-**Backend:** Java, Spring Boot, JDBC, Servlets, JSP  
-**Database:** MySQL  
-**Frontend:** HTML, CSS  
-**Tools:** Git, GitHub, Eclipse, VS Code, Apache Tomcat  
+### 💻 Backend
+Java, Spring Boot, JDBC, Servlets, JSP  
+
+### 🎨 Frontend
+HTML, CSS  
+
+### 🗄 Database
+MySQL  
+
+### 🧰 Tools & Version Control
+Git, GitHub, Eclipse, VS Code, Apache Tomcat  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nivedithan29&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivedithan29&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nivedithan29" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 🔗 LinkedIn:  
-https://linkedin.com/in/niveditha-n-563076254
+https://linkedin.com/in/niveditha-n-563076254  
 
-📍 Chitradurga, Karnataka, India
+📍 Chitradurga, Karnataka, India  
 
 ---
 
 <p align="center">
-⭐ Keep Learning | Keep Building | Never Give Up ⭐
+✨ Keep Learning • Keep Building • Keep Growing ✨
 </p>
