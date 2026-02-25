@@ -12,14 +12,14 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,eclipse,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,git,github,eclipse,vscode" />
 </p>
 
 ### 💻 Backend
 Java, Spring Boot, JDBC, Servlets, JSP  
 
 ### 🎨 Frontend
-HTML, CSS  
+HTML, CSS  ,JS
 
 ### 🗄 Database
 MySQL  
@@ -39,7 +39,7 @@ Git, GitHub, Eclipse, VS Code, Apache Tomcat
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn:  
+🔗 LinkedIn  
 https://linkedin.com/in/niveditha-n-563076254  
 
 📍 Chitradurga, Karnataka, India  
