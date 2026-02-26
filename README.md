@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niveditha</h1>
-<h3 align="center">Java Full Stack Developer</h3>,,,
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
 💻 Passionate about building real-world web applications <br>
