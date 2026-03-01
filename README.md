@@ -1,20 +1,25 @@
 <h1 align="center">Hi 👋, I'm Niveditha</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | REST APIs | MySQL</h3>
 
 <p align="center">
-💻 Passionate about building real-world web applications <br>
-🌱 Currently improving my skills in <b>Spring Boot & SQL</b> <br>
-🎯 Actively seeking opportunities as a <b>Java Developer</b>
+💻 Building real-world web applications using Java ecosystem <br>
+🚀 Focused on Backend Development & Scalable Systems <br>
+🎯 Open to Java Developer Opportunities
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Backend+Developer;Open+to+Work" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Java Full Stack Projects**
+- 🔭 Currently building **Java Full Stack Applications**
 - 🌱 Learning **Spring Boot, REST APIs & Database Optimization**
+- 🧠 Strong interest in **Backend Development**
 - 💬 Ask me about **Java, JDBC, Servlets, JSP**
-- 📫 Reach me at: **LinkedIn (below)**
-- ⚡ Fun fact: *I love turning ideas into working applications*
+- 📫 Reach me via LinkedIn below
+- ⚡ I enjoy turning ideas into working applications
 
 ---
 
@@ -28,8 +33,8 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 
 ### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄 Database
@@ -41,6 +46,30 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+---
+
+## ⭐ Featured Projects
+
+### 🍔 Food Delivery Web Application
+Full Stack food ordering system built using **JSP, Servlets, JDBC, MySQL & Apache Tomcat** following MVC architecture.
+
+✔ User Authentication  
+✔ Menu & Cart Management  
+✔ Order Processing System  
+
+🔗 https://github.com/nivedithan29/FoodDeliveryWebApplication
+
+---
+
+### 👨‍💼 Employee Management System
+Web application built using **Spring Boot, Thymeleaf & MySQL** to manage employee records.
+
+✔ CRUD Operations  
+✔ Database Integration  
+✔ MVC Architecture  
+
+🔗 https://github.com/nivedithan29/employee-management-system
 
 ---
 
@@ -57,11 +86,11 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/niveditha-n-563076254" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-Niveditha-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Niveditha-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
-📍 Chitradurga, Karnataka, India  
+📍 Chitradurga, Karnataka, India
 
 ---
 
