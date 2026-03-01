@@ -17,9 +17,8 @@
 - 🔭 Currently building **Java Full Stack Applications**
 - 🌱 Learning **Spring Boot, REST APIs & Database Optimization**
 - 🧠 Strong interest in **Backend Development**
-- 💬 Ask me about **Java, JDBC, Servlets, JSP**
-- 📫 Reach me via LinkedIn below
 - ⚡ I enjoy turning ideas into working applications
+- 📫 Reach me via LinkedIn below
 
 ---
 
